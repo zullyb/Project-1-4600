@@ -1,3 +1,13 @@
+#Zuleyma Baltazar
+
+#Added: 
+#SJF [preemptive]
+#SJF Priority scheduling [preemptive]
+# RR [always preemptive]
+
+
+
+
 # Project 1: Process Scheduler
 
 ## Description 
